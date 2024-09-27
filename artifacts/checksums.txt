@@ -1,0 +1,1 @@
+0285fa9135e7dba3ac48ef4a707a75aca36b8ca3cb996beb4e153a7c802429f5  sample_contract.wasm
